@@ -19,11 +19,16 @@
 - **teleport** - Teleports the player to the object in the center of the screen.
 - **r.VSync 0** - Disables VSync so you can unlock the FPS.
 - **t.maxfps 999** - Max's out the FPS.
+- **stat fps** - Shows FPS value.
+- **t.unsteadyfps 1** - Cuts the game's FPS to 1-30.
 - **changesize 0/7000** - Change player-size.
 - **possess zombie/goose** - Change current character to zombie/goose.
 - **showdebug** - Show player names, coordinates, and player state.
 - **stat ai** - Show all AI spawned infront of camera. (Snowmen, ISZ-Guys, Zombies, Geese).
 - **summon goose/zombie** - Spawns a goose or a zombie.
+- **fov 1/999999** - Sets the FOV Range.
+- **disconnect** - Save & Exit your game without closing ISZ. (Sometimes).
+- **stat unit** - Useful debugging information.
 
 # Screenshots:
 ![176267057-5ff832cb-2ded-4007-956f-18d6263f56d2](https://user-images.githubusercontent.com/78656905/187112049-73b842f6-af31-4e76-9561-a06ab6c1dafb.png)
