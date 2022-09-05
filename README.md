@@ -29,6 +29,8 @@
 - **fov 1/999999** - Sets the FOV Range.
 - **disconnect** - Save & Exit your game without closing ISZ. (Sometimes).
 - **stat unit** - Useful debugging information.
+- ***damagetarget 1/100*** - Can kill players, zombies, geese, weapons/items, and windows.
+- ***destroytarget*** - Removes the object from game (untill the game is closed/left).
 
 # Screenshots:
 ![176267057-5ff832cb-2ded-4007-956f-18d6263f56d2](https://user-images.githubusercontent.com/78656905/187112049-73b842f6-af31-4e76-9561-a06ab6c1dafb.png)
