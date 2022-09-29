@@ -1,8 +1,8 @@
 # ISZ-Console-Injector
 
-- [Download Version 2.0](https://github.com/Cracko298/ISZ-Console-Injector/blob/main/ISZ-Inject-Tool.zip)
+- [Download Version 2.0](https://github.com/Cracko298/ISZ-Console-Injector/blob/main/ISZ-Inject-Tool-v2.zip?raw=true)
 
-- [Legacy Version 1.0](https://github.com/Cracko298/ISZ-Console-Injector/blob/main/ISZ-Inject-Tool.zip)
+- [Legacy Version 1.0](https://github.com/Cracko298/ISZ-Console-Injector/blob/main/ISZ-Inject-Tool.zip?raw=true)
 
 
 # Injecting-The-Console:
