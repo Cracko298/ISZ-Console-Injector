@@ -37,8 +37,14 @@
 - ***damagetarget 1/100*** - Can kill players, zombies, geese, weapons/items, and windows.
 - ***destroytarget*** - Removes the object from game (untill the game is closed/left).
 
-# Screenshots:
+# Version (1.0 - 2.0):
 ![176267057-5ff832cb-2ded-4007-956f-18d6263f56d2](https://user-images.githubusercontent.com/78656905/187112049-73b842f6-af31-4e76-9561-a06ab6c1dafb.png)
 ![image](https://user-images.githubusercontent.com/78656905/187112064-f900b019-ab4d-4a7f-9f5d-ec4c4b6577f6.png)
 ![image](https://user-images.githubusercontent.com/78656905/187112097-7cae244c-47cf-4a80-95aa-ce30515bd854.png)
 ![image](https://user-images.githubusercontent.com/78656905/187112182-45027593-7fe6-44e0-a295-0c121098ff9b.png)
+
+# Version (3.0 Exclusive Screenshots):
+![image](https://user-images.githubusercontent.com/78656905/196001858-9fc83590-6871-44c6-925c-41700e37dd3f.png)
+![image](https://user-images.githubusercontent.com/78656905/196001869-89f1fdf0-3582-457b-aff7-f1c5c193681e.png)
+![image](https://user-images.githubusercontent.com/78656905/196001883-04e0a02b-ed5a-46f3-b69f-cbb655877163.png)
+
