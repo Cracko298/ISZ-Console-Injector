@@ -19,7 +19,7 @@
 - Less Chance for a Injection Error.
 - Adds more functionality to the "changesize #" command.
 
-# Cheat-Codes:
+# Debugging-Codes:
 - **god** - Prevents the player from taking any damage.
 - **toggledebugcammera** - Opens the cammera up-to WASD, and 360 motion.
 - **slomo 1/10** - Slow the game down, or speed it up.
