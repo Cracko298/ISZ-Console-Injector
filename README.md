@@ -14,8 +14,10 @@
 - Click on the game Window (ISZ-Win64-Shipping.exe).
 - Press the "~" key to access the console.
 
-
-
+# Why Is 3.0 Better?
+- Faster
+- Less Chance for a Injection Error.
+- Adds more functionality to the "changesize #" command.
 
 # Cheat-Codes:
 - **god** - Prevents the player from taking any damage.
@@ -26,7 +28,7 @@
 - **t.maxfps 999** - Max's out the FPS.
 - **stat fps** - Shows FPS value.
 - **t.unsteadyfps 1** - Cuts the game's FPS to 1-30.
-- **changesize 0/7000** - Change player-size.
+- **changesize 0/10000** - Change player-size.
 - **possess zombie/goose** - Change current character to zombie/goose.
 - **showdebug** - Show player names, coordinates, and player state.
 - **stat ai** - Show all AI spawned infront of camera. (Snowmen, ISZ-Guys, Zombies, Geese).
@@ -35,7 +37,7 @@
 - **disconnect** - Save & Exit your game without closing ISZ. (Sometimes).
 - **stat unit** - Useful debugging information.
 - ***damagetarget 1/100*** - Can kill players, zombies, geese, weapons/items, and windows.
-- ***destroytarget*** - Removes the object from game (untill the game is closed/left).
+- ***destroytarget*** - Removes the object from game (until the game is closed/left).
 
 # Version (1.0 - 2.0):
 ![176267057-5ff832cb-2ded-4007-956f-18d6263f56d2](https://user-images.githubusercontent.com/78656905/187112049-73b842f6-af31-4e76-9561-a06ab6c1dafb.png)
