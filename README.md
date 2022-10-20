@@ -40,11 +40,17 @@
 - ***destroytarget*** - Removes the object from game (until the game is closed/left).
 
 # FAQ:
-- Why would I use this?
+- ***Why would I use this?***
 
 *Debgging, Modding, Making External Cheats, More Control Over Hacking & Debugging.*
 
-- Why is this Better than the [ISZ-Advanced-Hack-Tool]?
+- ***Why is this Better than the [ISZ-Advanced-Hack-Tool](https://github.com/Cracko298/Ice-Station-Z-Advanced-Hack-Tool)?***
+
+*The [ISZ-Advanced-Hack-Tool](https://github.com/Cracko298/Ice-Station-Z-Advanced-Hack-Tool) only hacks the Save-Data. While the [ISZ-Console-Injector](https://github.com/Cracko298/ISZ-Console-Injector) can intenally modify assets and functions within the game.
+
+- ***How do I use the Injector?***
+
+*Start Ice Station Z from Steam, and after it loads give it about 5-seconds to start-up. Then double click the ISZ-Inject.bat
 
 # Version (1.0 - 2.0 Screenshots):
 ![176267057-5ff832cb-2ded-4007-956f-18d6263f56d2](https://user-images.githubusercontent.com/78656905/187112049-73b842f6-af31-4e76-9561-a06ab6c1dafb.png)
