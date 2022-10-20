@@ -14,7 +14,7 @@
 - Click on the game Window (ISZ-Win64-Shipping.exe).
 - Press the "~" key to access the console.
 
-# Why Is 3.0 Better?
+# Version 3.0 Changelog:
 - Faster
 - Less Chance for a Injection Error.
 - Adds more functionality to the "changesize #" command.
