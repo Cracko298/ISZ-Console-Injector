@@ -50,7 +50,7 @@
 
 - ***How do I use the Injector?***
 
-*Start Ice Station Z from Steam, and after it loads give it about 5-seconds to start-up. Then double click the ISZ-Inject.bat
+*Start Ice Station Z from Steam, and after it loads give it about 5-seconds to start-up. Then double click the [ISZ-Inject.bat](https://github.com/Cracko298/ISZ-Console-Injector/blob/main/ISZ-Inject.bat) and it should Inject the Console. (Ignore the ".dll Pipeline Error" the game still works as intended, just with the newly Injected Console).*
 
 # Version (1.0 - 2.0 Screenshots):
 ![176267057-5ff832cb-2ded-4007-956f-18d6263f56d2](https://user-images.githubusercontent.com/78656905/187112049-73b842f6-af31-4e76-9561-a06ab6c1dafb.png)
