@@ -48,6 +48,10 @@
 
 *The [ISZ-Advanced-Hack-Tool](https://github.com/Cracko298/Ice-Station-Z-Advanced-Hack-Tool) only hacks the Save-Data. While the [ISZ-Console-Injector](https://github.com/Cracko298/ISZ-Console-Injector) can intenally modify assets and functions within the game.
 
+- ***What Inject Tool Does This Use?***
+
+*The [ISZ-Console-Injector](https://github.com/Cracko298/ISZ-Console-Injector) uses the CLI Utility [DLL-Injector](https://github.com/adamhlt/DLL-Injector)
+
 - ***How do I use the Injector?***
 
 *Start Ice Station Z from Steam. Then double click the [ISZ-Inject.bat](https://github.com/Cracko298/ISZ-Console-Injector/blob/main/ISZ-Inject.bat) and it should Inject the Console. (If not refer to [The Inject Guide](https://github.com/Cracko298/ISZ-Console-Injector/blob/main/README.md#injecting-the-console))
