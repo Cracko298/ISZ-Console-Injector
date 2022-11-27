@@ -7,7 +7,7 @@
 - [Legacy Version 1.0](https://github.com/Cracko298/ISZ-Console-Injector/blob/main/ISZ-Inject-Tool.zip?raw=true)
 
 
-# Injecting-The-Console:
+# Injection Guide:
 - Start ISZ from Steam.
 - Run the batch-file.
 - Ignore the .dll error CMD Prompt Window.
