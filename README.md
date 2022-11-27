@@ -54,7 +54,7 @@
 
 - ***How do I use the Injector?***
 
-*Start Ice Station Z from Steam. Then double click the [ISZ-Inject.bat](https://github.com/Cracko298/ISZ-Console-Injector/blob/main/ISZ-Inject.bat) and it should Inject the Console. (If not refer to [The Inject Guide](https://github.com/Cracko298/ISZ-Console-Injector/blob/main/README.md#injecting-the-console)).
+*Start Ice Station Z from Steam. Then double click the [ISZ-Inject.bat](https://github.com/Cracko298/ISZ-Console-Injector/blob/main/ISZ-Inject.bat) and it should Inject the Console. (If not refer to [The Inject Guide](https://github.com/Cracko298/ISZ-Console-Injector/blob/main/README.md#injection-guide)).
 
 # Version (1.0 - 2.0 Screenshots):
 ![image](https://user-images.githubusercontent.com/78656905/187112064-f900b019-ab4d-4a7f-9f5d-ec4c4b6577f6.png)
