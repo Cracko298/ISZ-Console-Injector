@@ -1,6 +1,6 @@
 # ISZ-Console-Injector
 
-- [Download Version 4.0](https://github.com/ISZ-Hacker-Organization/ISZ-VS-Injector)
+- [Download Version 4.0](https://github.com/ISZ-Hacker-Organization/ISZ-VS-Injector/blob/main/VS-Injector.zip?raw=true)
 
 - [Legacy Version 3.0](https://github.com/Cracko298/ISZ-Console-Injector/releases/download/v3.0-alpha-3/ISZ-Inject-Tool-v3.zip)
 
