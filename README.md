@@ -17,10 +17,9 @@
 - Click on the game Window (ISZ-Win64-Shipping.exe).
 - Press the "~" key to access the console.
 
-# Version 3.0 Changelog:
-- Faster
-- Less Chance for a Injection Error.
-- Adds more functionality to the "changesize #" command.
+# Version 4.0 Changelog:
+- Removes "changesize #" modifier.
+- Now Supports "**VS: TR**".
 
 # Debugging-Codes:
 - **god** - Prevents the player from taking any damage.
