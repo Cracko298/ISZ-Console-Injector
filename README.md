@@ -21,7 +21,7 @@
 - Removes "changesize #" modifier.
 - Now Supports "**VS: TR**".
 
-# Debugging-Codes:
+# Simple Cheat Codes:
 - **god** - Prevents the player from taking any damage.
 - **toggledebugcammera** - Opens the cammera up-to WASD, and 360 motion.
 - **slomo 1/10** - Slow the game down, or speed it up.
